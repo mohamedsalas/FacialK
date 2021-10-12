@@ -1,0 +1,2 @@
+django_ML_API/facenet/align/aligned_faces\unkowm\real_00024.png 157 37 477 600
+django_ML_API/facenet/align/aligned_faces\youssef\16.png 58 62 302 378
